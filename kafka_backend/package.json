@@ -1,0 +1,16 @@
+{
+  "name": "kafka-backend",
+  "version": "1.0.0",
+  "description": "GrubHub_Lab2 Kafka_Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saumil-patel",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "kafka-node": "^2.6.1",
+    "mongoose": "^5.7.7"
+  }
+}
