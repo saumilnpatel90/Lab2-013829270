@@ -9,7 +9,7 @@
   "author": "saumil-patel",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "kafka-node": "^2.6.1",
     "mongoose": "^5.7.7"
   }
